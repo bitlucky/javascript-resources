@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  ***BASIC JAVASCRIPT CONCEPTS***
   <br>
 </h1>
 
